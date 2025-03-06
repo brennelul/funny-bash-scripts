@@ -37,5 +37,5 @@ Analyses nginx log and outputs:
 
 1. All entries sorted by response code;
 2. All unique IPs found in the entries;
-3. All requests with errors (response code — 4xx or 5xxx);
+3. All requests with errors (response code — 4xx or 5xx);
 4. All unique IPs found among the erroneous requests.
